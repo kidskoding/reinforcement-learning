@@ -1,0 +1,6 @@
+[submodule "neural-network"]
+	path = neural-network
+	url = https://github.com/kidskoding/neural-network
+[submodule "rl-playground"]
+	path = rl-playground
+	url = git@github.com:kidskoding/rl-playground.git
